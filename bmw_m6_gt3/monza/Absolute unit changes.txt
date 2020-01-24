@@ -1,0 +1,28 @@
+Baseline : agressive setup
+Track temp 30°C  62L OF FUEL HAVEN'T TRIED LESS. BEHAVES FINE WHEN FUEL GOES DOWN I THINK
+Best lap :  1.49.5
+Avg : Arround 1.50.0
+
+Hot PSI & temps :
+	28 to 28.4(out of lesmos) 		27.8
+	89	92	95			79	77	74
+		
+	27.7					27.6
+	89	92	95			87	84	81
+
+What I changed : 
+
++1 click front suspension
+-1 click rear suspension
+Caster from 9.4 to 8.4 
+Brake bias from 60 to 59%
+Ride height +1 click on both front and rear
+Closed brake ducts to 2 on the front, 1 on the rear
+
+Noticable stuff :
+
+I think i made it more stable, might be a bit harsh when attacking the kerbs. Not sure, might be overdriving (dunno what to change to see if it's that)
+It doesn't really like throttle application in mid speed corners like Ascari right hander and Parabolica -> Rear a bit loose? Feels like there's time to be found there? 
+	-> Was worse before changes. With a bit more testing, if you try to push in parabolica, it feels like the rear gets a tad loose. (Fuel?)
+
+
