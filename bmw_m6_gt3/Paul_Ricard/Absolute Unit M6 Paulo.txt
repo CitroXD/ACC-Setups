@@ -4,20 +4,11 @@ Fuel : 60L
 Track temp 30°C
 Baseline Agressive
 
-Felt like the rear wants to come arround in big acceleration zones like exit of slow section before main straight, and exit of big sweeping right at the start of 3rd sector. Ok on kerbs.
-Understeery in medium speed corners?
-
 Changes made :
 	Casters from 9.4 to 8.4 both sides
-
-
 	Front bumpstop rate +1 click
 	Front bump range -1
-	
-	
-	Might change stuff on the dampers as it's kind of taking the bumps.
-	
-	-1 rear wing  ->As it was slidy before, thought i'd see if i could get higher top speed. Turns out it's minor, like +1km/h max. Easily reversible. 
-
-+1 front roll
-+1 preload
+	-1 rear wing
+	+1 front roll
+	+1 preload
+	Added lots of dampers to make the kerbs feel nice, esp first chicane.
